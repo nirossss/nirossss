@@ -9,7 +9,7 @@
 
 <body>
   <header><Strong>Greetings, My name is Nir</strong></header>
-  <h1>Full-Stack developer with vast knowledge in React, Angular, NodeJs, MySQL, MongoDB and more.</h1>
+  <h1>Full-Stack developer mainly in React, Angular, NodeJs, MySQL, MongoDB and more.</h1>
   
   Experience developing 16+ Full stack projects using tools and languages such as 
   PHP,  jQuery, GIT, SASS, SCSS, express.js, mongoose, NodeJS fs, passport.js, socket.io, bcrypt, multer, dotenv, canvas, react hooks, angular material, bootstrap, GitHub and more.
